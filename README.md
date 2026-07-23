@@ -1,13 +1,62 @@
-# PRT681_S2026_Data
-1. Create a personal folder
-   
-AnupomaToma_S394044/
-2. Create a week folder inside your personal folder
+# PRT681 S2026 — Developers Repository
 
+This repository is for individual weekly work submissions. Each member works in their own folder and follows a consistent folder structure and commit routine.
+
+---
+
+# Folder Structure
+
+## 1. Create a folder for yourself
+
+Use your actual name and student ID.
+
+**Format:**
+
+```text
+Name_S123456
+```
+
+**My Folder:**
+
+```text
+AnupomaToma_S394044
+```
+
+## 2. Create a week folder inside your personal folder
+
+```text
 AnupomaToma_S394044/Week_1/
-3. Sub-folders for tasks and practice work
+```
 
-AnupomaToma_S394044/Week_1/Task_1/
-AnupomaToma_S394044/Week_1/Task_2/
-AnupomaToma_S394044/Week_1/Task_3/
-AnupomaToma_S394044/Week_1/Practice/
+## 3. Sub-folders for tasks and practice work
+
+```text
+AnupomaToma_S394044/Week_1/
+├── Task_1/
+├── Task_2/
+├── Task_3/
+├── Practice/
+└── README.md
+```
+
+## 4. Add more week folders as the semester progresses
+
+```text
+AnupomaToma_S394044/
+├── Week_1/
+├── Week_2/
+├── Week_3/
+├── Week_4/
+├── Week_5/
+└── ...
+```
+
+## 5. Commit your work regularly
+
+Example commit messages:
+
+```text
+Week 1 - Completed Task 1
+Week 1 - Added Practice Exercises
+Week 2 - Finished Task 2
+```
