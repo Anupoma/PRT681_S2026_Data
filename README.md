@@ -50,13 +50,27 @@ AnupomaToma_S394044/
 ├── Week_5/
 └── ...
 ```
-
-## 5. Commit your work regularly
-
-Example commit messages:
+## Example layout
 
 ```text
-Week 1 - Completed Task 1
-Week 1 - Added Practice Exercises
-Week 2 - Finished Task 2
+PRT681_S2026_Developers/
+│
+├── Name_S123456/
+│   ├── Week_1/
+│   │   ├── Task_1/
+│   │   ├── Task_2/
+│   │   └── Practice/
+│   │
+│   ├── Week_2/
+│   │   └── Task_1/
+│   │
+│   └── Week_3/
+│       └── Task_1/
+│
+└── AnotherName_S654321/
+    └── Week_1/
+        ├── Task_1/
+        └── Practice/
 ```
+
+---
