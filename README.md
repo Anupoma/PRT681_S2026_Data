@@ -38,18 +38,6 @@ AnupomaToma_S394044/Week_1/
 ├── Practice/
 └── README.md
 ```
-
-## 4. Add more week folders as the semester progresses
-
-```text
-AnupomaToma_S394044/
-├── Week_1/
-├── Week_2/
-├── Week_3/
-├── Week_4/
-├── Week_5/
-└── ...
-```
 ## Example layout
 
 ```text
