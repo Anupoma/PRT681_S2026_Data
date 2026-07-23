@@ -1,4 +1,4 @@
-# PRT681 S2026 — Developers Repository
+# PRT681 S2026 — Data Analyst Repository
 
 This repository is for individual weekly work submissions. Each member works in their own folder and follows a consistent folder structure and commit routine.
 
@@ -41,7 +41,7 @@ AnupomaToma_S394044/Week_1/
 ## Example layout
 
 ```text
-PRT681_S2026_Developers/
+PRT681_S2026_Data/
 │
 ├── Name_S123456/
 │   ├── Week_1/
