@@ -27,17 +27,6 @@ AnupomaToma_S394044
 ```text
 AnupomaToma_S394044/Week_1/
 ```
-
-## 3. Sub-folders for tasks and practice work
-
-```text
-AnupomaToma_S394044/Week_1/
-├── Task_1/
-├── Task_2/
-├── Task_3/
-├── Practice/
-└── README.md
-```
 ## Example layout
 
 ```text
@@ -80,13 +69,5 @@ Do not commit into another member's folder. Keep all of your weekly work under:
 ```text
 YourName_YourStudentID/
 ```
-
+Also, All relevant work committed.
 ---
-
-# Quick checklist
-
-- [ ] Personal folder named `Name_S123456`
-- [ ] Week folder created (e.g. `Week_1`, `Week_2`)
-- [ ] Task/project sub-folders created as needed
-- [ ] All relevant work committed (including incomplete work)
-- [ ] Commits only touch your own folder
