@@ -66,8 +66,3 @@ PRT681_S2026_Data/
 
 Do not commit into another member's folder. Keep all of your weekly work under:
 
-```text
-YourName_YourStudentID/
-```
-Also, All relevant work committed.
----
